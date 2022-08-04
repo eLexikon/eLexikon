@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eLexikon
-- 👀 I’m interested in programming software
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Pauly's RE
 - 📫 How to reach me info@peterhug.ch
